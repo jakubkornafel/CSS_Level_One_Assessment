@@ -7,7 +7,7 @@ Watch the video lecture for more info on this! */
 /*Task # 1
 Give the body element of the site a light blue background using HEX code*/
 body {
-  background-color: #4286f4;
+  background-color: #4b7f93;
 }
 
 
@@ -71,7 +71,7 @@ and be the color purple.*/
 Finally, make the elements with the class label "exit" have
 a background of blue and a 4px dashed yellow border.*/
 .exit{
-  background: blue;
+  background: SteelBlue;
   border: 4px dashed yellow;
 }
 
